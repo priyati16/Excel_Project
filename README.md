@@ -56,7 +56,7 @@ The Excel dashboard includes:
 
 ---
 
-## 👩‍💻 Author
+##  Author
 **Priya Choubey**  
 Aspiring Data Analyst | Excel | SQL | Power BI
 
