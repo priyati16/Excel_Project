@@ -1,8 +1,7 @@
 ## Excel_Project
 #  Excel Data Analysis Project
 ##  Dashboard Preview
-<img src="[images/dashboard.png](https://github.com/priyati16/Excel_Project/blob/main/Dashboard.png)" width="700"/>
-
+<img src="https://github.com/priyati16/Excel_Project/blob/main/Dashboard.png" width="700"/>
 ##  Project Overview
 This project focuses on analyzing data using **Microsoft Excel** to extract meaningful insights and create interactive dashboards.
 
